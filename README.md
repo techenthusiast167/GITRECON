@@ -90,14 +90,22 @@ The GitHub Reconnaissance Tool is a comprehensive OSINT solution designed to ext
 
 # Installation
 
+- **Optional**: Activate your **virtual environment** if needed
+
 **Manual Dependency Installation**
 
 The tool requires Python 3.8+ and the following packages:
 
-*Install core dependencies*
+**Install core dependencies**
 
     pip install requests
     pip install python-dotenv
+
+**Tool’s Script Manual Installation**:
+
+- Follow the link below, copy and save the tool’s script using nano:
+  **https://gist.github.com/techenthusiast167/39a519ffc5d470b75436ad111d70d4c7**
+
 
 - - -
 
