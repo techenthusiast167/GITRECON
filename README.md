@@ -268,7 +268,8 @@ The tool requires Python 3.8+ and the following packages:
 
 [+] Google Dorking suggestion for digital footprint analysis:
 ----------------------------------------------------------------------
-🔍 Suggested Google dorks for digital footprint analysis:
+
+Suggested Google dorks for digital footprint analysis:
 1. site:github.com "techenthusiast167"
 2. intext:"techenthusiast167" filetype:pdf
 3. inurl:"techenthusiast167"
